@@ -2,7 +2,7 @@
 
 ![](/images/figure_TLE_summary.png)
 
-This repository contains the code that is necessary to reproduce the work of Buchin et al. 2020 (https://www.biorxiv.org/content/10.1101/2020.04.24.060178v1). The repository contains the code for Python, Matlab and R used in this study. To make is easier to comprehend, the code is organized into subdirectories that correspond to figures.
+This repository contains the code that is necessary to reproduce the work of Buchin et al. 2020 (https://www.biorxiv.org/content/10.1101/2020.04.24.060178v4). The repository contains the code for Python, Matlab and R used in this study. To make is easier to comprehend, the code is organized into subdirectories that correspond to figures.
 
 ## Getting Started
 
