@@ -2,7 +2,7 @@ allensdk==0.16.0
 attrs==18.1.0
 backports.functools-lru-cache==1.5
 bmtk==0.0.5
-certifi==2018.8.13
+certifi==2022.12.7
 chardet==3.0.4
 cloudpickle==0.6.1
 cycler==0.10.0
